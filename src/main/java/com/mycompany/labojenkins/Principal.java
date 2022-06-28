@@ -27,5 +27,6 @@ public class Principal {
         System.out.println(c1.restar(2, 2));
         System.out.println(c1.multiplicar(2, 2));
         System.out.println(c1.dividir(2, 2));
+        System.out.println("Hola mundo");
     }
 }
